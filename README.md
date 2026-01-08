@@ -171,9 +171,10 @@ show ip eigrp neighbors
 
 # Check EIGRP routes
 show ip route eigrp
-
+# Test connectivity (e.g., from PC1 to PC2)
+ping 192.168.2.10
 ```
-###  Learning Outcomes
+##  Learning Outcomes
 
 Configure and verify EIGRP on Cisco routers
 
@@ -183,7 +184,6 @@ Observe failover routing behavior
 
 Enhance troubleshooting and verification skills
 
-# Test connectivity (e.g., from PC1 to PC2)
-ping 192.168.2.10
 
-```
+
+
