@@ -14,6 +14,11 @@ This lab demonstrates **EIGRP (Enhanced Interior Gateway Routing Protocol)** con
 - **Autonomous System (AS):** 10
 
 ---
+PC1 --- R1 --- R2 ---
+| |
+| | R5 --- PC2
+| | /
+R4 --- R3 --/
 
 ##  Lab Topology
 ![Lab Screenshot](./eigrp_lab_topology.jpeg)
